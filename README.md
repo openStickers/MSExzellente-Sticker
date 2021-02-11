@@ -12,6 +12,7 @@ https://signal.art/addstickers/#pack_id=fcd6bb4a3516a203e1c67106058888e8&pack_ke
 
 ## Whatsapp
 https://github.com/openStickers/MSExzellente-Sticker/raw/main/MSExzellente%20Sticker%20v0.2.wastickers
+
 You will need this app:
 - Android: https://play.google.com/store/apps/details?id=com.marsvard.stickermakerforwhatsapp&hl=de_CH&gl=US
 - IOS: https://apps.apple.com/de/app/sticker-maker-studio/id1443326857 
